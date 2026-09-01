@@ -1,5 +1,9 @@
 # QrypTalk: Quantum-Inspired Secure Messaging
 
+#contributors:
+
+This project was created for the Amaravati Quantum Valley Hackathon 2025. Contributions and suggestions for further development (e.g., PQC integration, hardware interfacing) are welcome!
+
 ## Project Overview
 
 QrypTalk is a secure mobile messaging application developed for the Amaravati Quantum Valley Hackathon 2025. It serves as a proof-of-concept for quantum-resilient communication by implementing a high-fidelity software simulation of the BB84 Quantum Key Distribution (QKD) protocol. The application demonstrates how two users can establish a shared secret key with the ability to detect eavesdropping, and then use this key for end-to-end encrypted chat.
