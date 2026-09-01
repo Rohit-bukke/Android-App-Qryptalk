@@ -1,6 +1,6 @@
-from fastapi import FastAPI
-from app.routers.websocket import router
+"""
+Compatibility wrapper for security main application.
+"""
+from app.main import app
 
-app = FastAPI(title="QrypTalk QKD Backend")
-
-app.include_router(router)
+__all__ = ["app"]
