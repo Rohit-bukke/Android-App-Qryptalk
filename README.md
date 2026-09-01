@@ -4,6 +4,9 @@ QrypTalk is a next-generation quantum-resilient secure communication system comb
 
 ---
 
+#contributors 
+This project was created for the Amaravati Quantum Valley Hackathon 2025. Contributions and suggestions for further development (e.g., PQC integration, hardware interfacing) are welcome!
+
 ## Highlights & Core Innovations
 
 ### 1. Quantum Machine Learning (QML) Threat Intelligence Engine
