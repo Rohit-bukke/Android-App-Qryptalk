@@ -59,7 +59,7 @@ def benchmark():
 
     print("\n" + "=" * 70)
     print("                 BENCHMARK COMPLETED SUCCESSFULLY")
-    print("=" * 70)
+    print("=" * 70)   
 
 
 if __name__ == "__main__":
