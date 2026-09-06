@@ -1,0 +1,41 @@
+[33mcommit ccb5e2548a5b44b5a2fc5e000701603d7369960e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: rohith20057 <r220468@rguktrkv.ac.in>
+Date:   Wed Sep 2 21:52:17 2026 +0530
+
+    version changed
+
+[33mcommit 2dd792bc63bd8f5b03cca9309f6f145fdc184468[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rohith20057 <r220468@rguktrkv.ac.in>
+Date:   Tue Sep 1 11:24:47 2026 +0530
+
+    feat: implement QML variational classifier, QRNG engine, and quantum-enhanced BB84 backend
+    
+    - Implement vectorized N-qubit statevector simulator supporting universal gate operations (H, Pauli, Rotations, CNOT, CZ) and Pauli expectation values
+    - Add Quantum Random Number Generator (QRNG) using Hadamard superposition collapse with NIST/Shannon entropy validation
+    - Implement Variational Quantum Classifier (VQC/QML) with angle feature embedding and circular CNOT ring ansatz for real-time eavesdropper and channel threat detection
+    - Upgrade BB84 QKD protocol to utilize QRNG entropy, real-time QML security classification, and dynamic privacy amplification for 256-bit AES-GCM keys
+    - Refactor FastAPI backend with modular REST endpoints (/api/quantum/*), Swagger UI docs, and streaming WebSocket telemetry
+    - Add comprehensive 16-test automated verification suite and performance benchmark suite
+    - Update repository documentation with architectural diagrams, mathematical formulations, benchmarks, and API reference
+
+[33mcommit 73b0d6253be5c88f52b64a86550e8818e20a9fd3[m
+Author: Rohit <r220468@rguktrkv.ac.in>
+Date:   Tue Sep 1 11:08:56 2026 +0530
+
+    project details and setup instructions were added
+    
+    Added detailed project description, features, setup instructions, and usage guidelines for QrypTalk.
+
+[33mcommit 20294fa3fc073cc433abd2034b4001ddf3aa3abf[m
+Author: Rohit <r220468@rguktrkv.ac.in>
+Date:   Tue Sep 1 11:00:54 2026 +0530
+
+    Enhance README with contributors and project details
+    
+    Added contributors section and project background information.
+
+[33mcommit f3eae6fe6cc0e9e10575eb92e56ca6429fed384e[m
+Author: bukkerohithmarthandanaik <naikrohit039@gmail.com>
+Date:   Tue Feb 10 06:23:21 2026 +0530
+
+    initial commit

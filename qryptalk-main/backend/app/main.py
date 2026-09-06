@@ -47,4 +47,4 @@ def root():
             "session_status": "/api/quantum/session",
             "websocket": "/ws/{client_id}",
         },
-    }
+    }   
