@@ -16,7 +16,7 @@ QrypTalk is a next-generation quantum-resilient secure communication system comb
   - `NOISY_ENVIRONMENT` (Thermal/channel noise; trigger Cascade error correction)
   - `ACTIVE_EAVESDROPPER` (Intercept-Resend attack detected with ~91% confidence)
   - `CRITICAL_ATTACK` (Severe disturbance; automatic session abort & key purge)
-* **Adaptive Privacy Amplification**: Dynamically computes key compression factor $r = 1 - 2 h(\text{QBER})$ based on Shannon binary entropy.
+* **Adaptive Privacy Amplification**: Dynamically computes key compression factor $r = 1 - 2 h(\text{QBER})$ based on Shannon binary entropy.  
 
 ### 2. Quantum Random Number Generator (QRNG)
 * **Superposition Wavefunction Collapse**: Replaces classical pseudo-random generators ($PRNG$) with true quantum entropy by placing $N$-qubit registers into equal superposition via Hadamard gates:
